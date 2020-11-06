@@ -1,2 +1,3 @@
 # java-aes
- AES implemented in java
+
+ AES implemented in java - proof of concept only
